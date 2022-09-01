@@ -1,4 +1,3 @@
 print("Hello world!")
 
-
-name = input("Введите название: ")
+num1 = int(input("Введите любое число: "))
